@@ -1,4 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-## 4BK Software
+    <!-- Begin Jekyll SEO tag v2.5.0 -->
+    <title>4BK Software | 4bk.github.io</title>
+    <meta name="generator" content="Jekyll v3.7.4" />
+    <meta property="og:title" content="4BK Software" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta name="description" content="4BK Software - Consultoria em Desenvolvimento de Software" />
+    <meta property="og:description" content="4BK Software - Consultoria em Desenvolvimento de Software" />
+    <link rel="canonical" href="https://4bk.com.br/" />
+    <meta property="og:url" content="https://4bk.com.br/" />
+    <meta property="og:site_name" content="4bk.github.io" />
+    <!-- End Jekyll SEO tag -->
 
-### Consultoria em Desenvolvimento de Software
+    <link rel="stylesheet" href="/assets/css/style.css?v=4503a65bdc823ed3b813a3f5f4cd1811064b160e">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+    <h2 id="4bk-software">4BK Software</h2>
+
+    <h3 id="consultoria-em-desenvolvimento-de-software">Consultoria em Desenvolvimento de Software</h3>
+
+      
+    </div>
+  </body>
+</html>
